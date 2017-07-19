@@ -1,0 +1,16 @@
+{
+  "name": "server-side-cache-with-express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.3",
+    "memory-cache": "^0.2.0",
+    "jade": "^1.11.0"
+  },
+  "engines": {
+    "node": "8.1.x"
+  },
+  "license": "MIT"
+}
